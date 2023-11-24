@@ -1,0 +1,104 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    backdrop-filter: opacity(20%);
+}
+
+
+.container{
+    width: 1000px;
+    margin: auto;
+    padding: 10cm, 15cm, 10cm, 15cm; 
+    color: black;
+}
+
+.boxopaco{
+    width: 1200px;
+    background-color: rgba(0, 0, 0, 0.564);
+    margin: auto;
+    border-radius: 20px 20px 20px 20px;
+    height: 20cm;
+    margin-top: 40px;
+}
+
+
+
+.centrale{
+    text-align: center;
+
+
+}
+
+.logo{
+    width: 25%;
+    margin-top: 100px;
+
+}
+
+
+.titolo{
+    width: 800px;
+    margin: auto;
+    font-size: 30px;
+    color: rgb(19, 211, 19);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 5px;
+}
+
+.navcentro{
+    text-align: center;
+    background-color: rgb(19, 211, 19);
+    border: 10px solid rgb(19, 211, 19);
+}
+
+.spaziocliente{
+    margin-top: 20px;
+    
+}
+
+.nomecliente{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+.indirizzo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    color: white;
+}
+
+.ricaricagino{
+    background-color: rgb(227, 177, 52);
+    border: 15px solid rgb(227, 177, 52);
+    border-radius: 7px 7px 7px 7px;
+    margin-top: 10px;
+    margin-right: 650px;
+} 
+
+.ricaricamike{
+    background-color: rgb(14, 182, 9);
+    border: 15px solid rgb(14, 182, 9);
+    border-radius: 7px 7px 7px 7px;
+    margin-top: 10px;
+    margin-right: 370px;
+} 
+
+.ricaricafede{
+    background-color: rgb(195, 63, 78);
+    border: 15px solid rgb(195, 63, 78);
+    border-radius: 7px 7px 7px 7px;
+    margin-top: 10px;
+    margin-right: 800px;
+} 
+
+
+
+
+
